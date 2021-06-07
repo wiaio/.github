@@ -1,0 +1,11 @@
+{
+  "name": "Wia CI Node Test Only",
+  "description": "Wia CI Node Test Only workflow template.",
+  "iconName": "wia-icon",
+  "categories": [
+      "JavaScript"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}
