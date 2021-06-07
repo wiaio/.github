@@ -1,4 +1,4 @@
-name: "Test Tag Publish"
+name: "Wia Test Tag Publish"
 
 on:
   push:
